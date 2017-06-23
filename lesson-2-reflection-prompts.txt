@@ -5,6 +5,8 @@ The files inside will be understood by git. You need to do that so you are able 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+It can contain a part of all your system files and it's more secure by the time of an MTP.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
