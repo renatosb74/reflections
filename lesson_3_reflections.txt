@@ -10,3 +10,5 @@ R: Fork copies repositories on GitHub; clone copies a repository to your local e
 What is the benefit of having a copy of the last known state of the remote stored locally?
 R: You can solve conflicts.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+R: Easy and hard: Lose track of the changes.
