@@ -3,3 +3,7 @@ R: When I need to keep my work safe and controlled by GitHub
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 R: Because I might have someone else working on my project and things may get out of control.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+R: Fork copies repositories on GitHub; clone copies a repository to your local environment; branch is a project version. Based on my needs.
+
