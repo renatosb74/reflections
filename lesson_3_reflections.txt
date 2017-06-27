@@ -7,3 +7,6 @@ R: Because I might have someone else working on my project and things may get ou
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 R: Fork copies repositories on GitHub; clone copies a repository to your local environment; branch is a project version. Based on my needs.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+R: You can solve conflicts.
+
